@@ -40,6 +40,27 @@ This architecture supports multi-role operations and ensures secure, scalable da
 
 ---
 
+
+## 🎥 Demo
+
+(https://www.youtube.com/@SAMCHIKO)
+
+---
+
+## 🖼️ Screenshots
+
+Sidebar.png
+admin-dashboard.png
+production-dashboard.png
+productionManger-dashboard.png
+purchasing-dashboard.png
+sales-dashboard.png
+salesmanager-dashboard.png
+warehouse-dashboard.png
+warehouse-stockreport.png
+
+---
+
 ## ⚙️ Setup & Deployment
 
 The project includes a one-command setup script for quick deployment:
@@ -96,26 +117,6 @@ The system supports multiple operational roles:
 * purchasing_manager
 
 Each role is assigned controlled access based on business responsibilities.
-
----
-
-## 🎥 Demo
-
-(https://www.youtube.com/@SAMCHIKO)
-
----
-
-## 🖼️ Screenshots
-
-Sidebar.png
-admin-dashboard.png
-production-dashboard.png
-productionManger-dashboard.png
-purchasing-dashboard.png
-sales-dashboard.png
-salesmanager-dashboard.png
-warehouse-dashboard.png
-warehouse-stockreport.png
 
 ---
 
