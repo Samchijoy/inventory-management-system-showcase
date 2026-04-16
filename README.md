@@ -107,7 +107,15 @@ Each role is assigned controlled access based on business responsibilities.
 
 ## 🖼️ Screenshots
 
-(Will add screeshots here)
+Sidebar.png
+admin-dashboard.png
+production-dashboard.png
+productionManger-dashboard.png
+purchasing-dashboard.png
+sales-dashboard.png
+salesmanager-dashboard.png
+warehouse-dashboard.png
+warehouse-stockreport.png
 
 ---
 
