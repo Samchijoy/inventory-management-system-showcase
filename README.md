@@ -6,6 +6,9 @@ The system enables companies to track stock levels, manage inventory movements, 
 
 Designed with scalability, role-based access, and deployment flexibility in mind.
 
+This was built to solve common inventory challenges such as
+multi-warehouse tracking, stock inconsistencies, and lack of role-based control.
+
 ---
 
 ## 🎯 Key Features
@@ -63,7 +66,8 @@ warehouse-stockreport.png
 
 ## ⚙️ Setup & Deployment
 
-The project includes a one-command setup script for quick deployment:
+The setup process is designed to allow quick deployment in real business environments.
+One-command setup script for quick deployment:
 
 ```bash
 ./CLONE-UI.sh
@@ -120,6 +124,14 @@ Each role is assigned controlled access based on business responsibilities.
 
 ---
 
+## 👤 My Role
+
+Designed and developed the system architecture, database structure,
+and deployment workflow. Responsible for implementing business logic
+and integrating frontend with backend services.
+
+---
+
 ## 🤖 AI-Assisted Development
 
 AI tools were used to:
@@ -150,11 +162,13 @@ The full source code is kept private, but is available upon request for evaluati
 
 ## 📌 Summary
 
-This project demonstrates:
+This project demonstrates the ability to design and deploy a real-world
+inventory system with scalable architecture, role-based access, and
+business-oriented workflows.
 
 * End-to-end system design
 * Real-world business logic implementation
 * Deployment-ready architecture
 * Integration of frontend, backend, and database systems
 
-Built as a practical solution for inventory and operations management.
+a practical solution for inventory and operations management.
