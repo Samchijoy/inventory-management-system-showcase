@@ -52,8 +52,8 @@ This architecture supports multi-role operations and ensures secure, scalable da
 
 ## 🖼️ Screenshots
 
-Sidebar.png
-admin-dashboard.png
+Sidebar.png (navigation panel that are available depending on the user role)
+admin-dashboard.png 
 production-dashboard.png
 productionManger-dashboard.png
 purchasing-dashboard.png
@@ -127,8 +127,8 @@ Each role is assigned controlled access based on business responsibilities.
 ## 👤 My Role
 
 Designed and developed the system architecture, database structure,
-and deployment workflow. Responsible for implementing business logic
-and integrating frontend with backend services.
+and deployment workflow. Implemented core business logic and integrated
+frontend with backend services using Supabase.
 
 ---
 
